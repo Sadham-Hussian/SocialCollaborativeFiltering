@@ -63,5 +63,5 @@ The following flowchart summarises the above points:
 ![Flowchart](./images/flowchart.png)
 
 ## Contributors
-1. [Sadham-Hussian](https://github.com/Sadham-Hussian)
+1. [Sadham Hussian M](https://github.com/Sadham-Hussian)
 2. [Anantha Raam G](https://github.com/AnanthaRaam)
